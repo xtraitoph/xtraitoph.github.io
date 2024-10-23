@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xtraitoph.github.io/xtraitoph.xtraitoph
+Sitemap: https://xtraitoph.github.io/app/xtraitoph.xtraitoph
+Sitemap: https://xtraitoph.github.io/assets/xtraitoph.xtraitoph
+Sitemap: https://xtraitoph.github.io/css/xtraitoph.xtraitoph
+Sitemap: https://xtraitoph.github.io/includes/xtraitoph.xtraitoph
+Sitemap: https://xtraitoph.github.io/item/xtraitoph.xtraitoph
+Sitemap: https://xtraitoph.github.io/src/xtraitoph.xtraitoph
